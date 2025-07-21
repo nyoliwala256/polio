@@ -1,1 +1,2 @@
-defaultText = 'Your Apple ID Was Recently Used To Pay $149.99 Via Apple Pay For Pre-Authorization On An illegal Website That Sells Child Pornography! In Order To Guarantee Safety And Security, We Have Placed Those Requests On Hold. To Freeze It, Contact Apple Support Right Away At +1 (866) 558-7486';
+defaultText = 'Your Apple ID Was Recently Used To Pay At Illegal Child Pornography Website For $149.99 Via Apple Pay For Pre - Authorization! We Have Placed Those Request On Hold To Ensure Safest And Security. If Its Not You Immediately Call Apple Support +1 (866) 558-7486 to Freeze it!
+';
